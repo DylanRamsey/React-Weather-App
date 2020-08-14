@@ -4,7 +4,7 @@ import WeatherDay from './components/WeatherDay';
 import LocationSearch from './components/LocationSearch';
 
 
-const Api_Key = "259b685a96ab3188ae26b41ed2162033";
+
 
 export class App extends Component {
 
